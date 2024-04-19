@@ -4,12 +4,8 @@
 }
 
 body {
-    background-color: #266fce;
+    background-color: #196ac7;
 
-}
-
-img.lado {
-    float: right;
 }
 
 main {
@@ -30,14 +26,17 @@ h2 {
     color: rgb(0, 0, 0);
 }
 
+img.lado {
+    float: right;
+}
 
 a {
     text-decoration: none;
     font-weight: bold;
-    color: rgb(0, 102, 255);
+    color: rgb(12, 76, 214);
 }
 
 a:hover {
     text-decoration: underline;
-    color: rgb(26, 26, 255);
+    color: rgb(12, 76, 214);
 }
